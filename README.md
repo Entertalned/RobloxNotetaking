@@ -13,6 +13,7 @@
 
 
 ## How do I use the app?
+<li>You must be using Windows PC.</li>
 <li>First, you must download <a href="https://github.com/Entertalned/RobloxNotetaking">RobloxNote-taking</a>.</li>
 <li>After downloading, open the app, YOU WILL MOSTLY GET A "Windows protected your PC" the app IS NOT HARMFUL TO YOUR PC.</li>
 <li>Paste you're roblox user ID in the box and fetch</li>
