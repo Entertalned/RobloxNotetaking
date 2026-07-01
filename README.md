@@ -19,3 +19,4 @@
 
 ## Known Errors
 <li>To many API request(Be patient, wait a bit, then try again)</li>
+<li>App getting deleted by windows defender, make sure it allows it, turning it off then downloading it and turning back on worked for me.</li>
